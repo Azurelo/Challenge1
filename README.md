@@ -14,8 +14,6 @@ N/A
 
 This website can be used to see information provided by Horiseon. The items listed in the header can be clicked on to navigate down the page where more information for each item is given.
 
-![alt text](assets/images/screenshot.png)
-
 ## Credits
 
 N/A
